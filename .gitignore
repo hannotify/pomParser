@@ -5,4 +5,5 @@ target/*
 *.ear
 .idea/
 pom_parser.iml
-
+effective-poms/
+output/
